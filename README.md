@@ -1,2 +1,3 @@
 # Dark_Master
-Beginner Programming
+
+I am currently learning programming!
